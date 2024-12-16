@@ -2,7 +2,7 @@
 
 Some usefull links on a tools you might need to create your own UX Automation.
 
-Or try online at [uxtool.pro](uxtool.pro)!
+Or try online at [uxtool.pro](https://uxtool.pro)!
 
 ML/AI Models:
 
